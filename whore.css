@@ -1,6 +1,6 @@
 html {
   background-color:black;
-  color:red;
+  color:white;
 }
 h1 {
   padding: 40px;
@@ -9,7 +9,7 @@ h1 {
 a {
   text-decoration: none;
   list-style-type: none;
-  color:white;
+  color:cyan;
   font-size: 16px;
 }
 
